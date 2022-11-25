@@ -2,6 +2,8 @@
 
 <img src="laravelBlog/page1.png" width="400">
 
+[![page1.png](https://i.postimg.cc/5t3hnv9S/page1.png)](https://postimg.cc/d7hN0hyh)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
