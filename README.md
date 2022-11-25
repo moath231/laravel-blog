@@ -1,8 +1,21 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<img src="laravelBlog/page1.png" width="400">
 
 [![page1.png](https://i.postimg.cc/5t3hnv9S/page1.png)](https://postimg.cc/d7hN0hyh)
+[![page2.png](https://i.postimg.cc/yxvhG1g5/page2.png)](https://postimg.cc/YLLmGwxf)
+[![page3.png](https://i.postimg.cc/Fsz0RQJr/page3.png)](https://postimg.cc/2Vp1cMwM)
+
+
+## command
+
+`composer create-project --prefer-dist laravel/laravel:^8.0 LaravelBlog`
+`composer require laravel-frontend-presets/tailwindcss --dev`
+`php artisan ui tailwindcss --auth`
+`npm install`
+`npm remove laravel-mix`
+`npm install laravel-mix --save-dev`
+`npm run dev`
+`npm run watch`
 
 ## About Laravel
 
