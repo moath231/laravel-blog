@@ -8,14 +8,14 @@
 
 ## command
 
-`composer create-project --prefer-dist laravel/laravel:^8.0 LaravelBlog`
-`composer require laravel-frontend-presets/tailwindcss --dev`
-`php artisan ui tailwindcss --auth`
-`npm install`
-`npm remove laravel-mix`
-`npm install laravel-mix --save-dev`
-`npm run dev`
-`npm run watch`
+`composer create-project --prefer-dist laravel/laravel:^8.0 LaravelBlog` <br>
+`composer require laravel-frontend-presets/tailwindcss --dev` <br>
+`php artisan ui tailwindcss --auth` <br>
+`npm install` <br>
+`npm remove laravel-mix` <br>
+`npm install laravel-mix --save-dev` <br>
+`npm run dev` <br>
+`npm run watch` <br>
 
 ## About Laravel
 
